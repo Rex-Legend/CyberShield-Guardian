@@ -12,7 +12,6 @@ CyberShield Guardian is a smart safety system combining **AI**, **IoT**, and **B
 ## ⚙️ Key Features
 - 🤖 AI-based panic detection (voice, motion, heart rate)
 - 🔐 Blockchain-backed immutable alert records
-- 📡 IoT wearable integration (smart band prototype)
 - 🗺️ Real-time responder map & GPS tracking
 - 🛡️ Privacy-first, encrypted user data system
 
